@@ -9,12 +9,12 @@
     </tr>
     <tr>
         <td>2018/11/23</td>
-        <td>jobs.py</td>
-        <td>51job上职位信息，筛选条件：金融，硕士</td>
+        <td>credit.R</td>
+        <td>利用决策树识别信贷风险</td>
     </tr>
     <tr>
         <td>2018/11/23</td>
-        <td>1120baidu.py</td>
-        <td>百度搜索“腾讯新闻”1-5页检索信息</td>
+        <td>KNN.R</td>
+        <td>KNN算法诊断乳腺癌</td>
     </tr>
 </table>
